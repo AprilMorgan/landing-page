@@ -1,0 +1,41 @@
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1f2937;
+}
+
+.header {
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.links {
+  display: inline-flex;
+  flex: 1;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  text-wrap: balance;
+  color: white;
+}
+
+.footer {
+  display: flex;
+  /* flex-direction: column; */
+  background-color: #1f2937;
+  color: white;
+}
+
+.section-1 {
+  display: flex;
+}
